@@ -1,0 +1,4 @@
+<Files "data_sekolah.json">
+    Order Allow,Deny
+    Deny from all
+</Files>
